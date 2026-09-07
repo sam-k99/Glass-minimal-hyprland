@@ -1,0 +1,1 @@
+A full hyprland setup 
