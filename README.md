@@ -1,1 +1,1 @@
-A full hyprland setup 
+A full minimal glass themed hyprland setup
