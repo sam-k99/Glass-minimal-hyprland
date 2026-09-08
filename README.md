@@ -9,7 +9,7 @@
 [![Made with ❤](https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff4655?style=for-the-badge)](https://github.com/sam-k99)
 [![Stars](https://img.shields.io/github/stars/sam-k99/Glass-minimal-hyprland?style=for-the-badge&color=yellow)](https://github.com/sam-k99/Glass-minimal-hyprland/stargazers)
 
-[Preview](#-preview) · [Features](#-features) · [Install](#-installation) · [Keybinds](#-keybindings) · [Credits](#-credits)
+[Preview](#-preview) · [Features](#-features) · [Install](#-installation) · [Keybinds](#-keybindings) 
 
 <img src="assets/preview1.png" alt="Glass Hyprland Desktop" width="100%"/>
 
