@@ -4,8 +4,6 @@
 
 # GM-Hyprland
 
-**A clean, glassy, full Hyprland setup — minimal by design, elegant by default.**
-
 [![Hyprland](https://img.shields.io/badge/WM-Hyprland-1a92ff?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/hyprwm/Hyprland)
 [![License](https://img.shields.io/github/license/sam-k99/Glass-minimal-hyprland?style=for-the-badge&color=8b5cf6)](LICENSE)
 [![Made with ❤](https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff4655?style=for-the-badge)](https://github.com/sam-k99)
