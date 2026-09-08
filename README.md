@@ -17,15 +17,15 @@
 
 ---
 
-## ✨ Overview
+##  Overview
 
 **Glass** is a complete, ready-to-rice Hyprland configuration. It combines subtle glassmorphism, smooth animations, and a minimal aesthetic — everything you need for a distraction-free yet beautiful workflow, straight out of the box.
 
-> 🖥️ *"Full setup. Zero clutter."*
+
 
 ---
 
-## 🖼️ Preview
+##  Preview
 
 | Desktop | Terminal |
 |:---:|:---:|
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔥 Features
+##  Features
 
 - ⚡ **Minimal & lightweight** — no bloat, only what matters
 - 🪟 **Glassmorphism everywhere** — blurred bars, translucent panels
@@ -50,7 +50,7 @@
 
 ---
 
-## 🧩 Components
+##  Components
 
 | Component | Tool |
 |---|---|
@@ -66,7 +66,7 @@
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - A Linux distro with `pacman` (Arch / Arch-based) — *other distros: adapt the package names*
 - Hyprland & its dependencies (aquamarine, hyprlang, hyprutils, hyprcursor…)
@@ -87,7 +87,7 @@ qt5-wayland qt6-wayland
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 > ⚠️ **Warning:** Back up your existing configs first!
 
@@ -118,7 +118,7 @@ The script installs all dependencies and copies the configs automatically.
 
 ---
 
-## ⌨️ Keybindings
+##  Keybindings
 
 | Keys | Action |
 |---|---|
@@ -139,7 +139,7 @@ The script installs all dependencies and copies the configs automatically.
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 Glass-minimal-hyprland/
@@ -157,7 +157,7 @@ Glass-minimal-hyprland/
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 Everything is modular and commented:
 
@@ -170,7 +170,7 @@ Make it yours. 🔧
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Found a bug or have an idea to make **Glass** even cleaner?
 
@@ -181,13 +181,13 @@ Found a bug or have an idea to make **Glass** even cleaner?
 
 ---
 
-## ⭐ Show Some Love
+##  Show Some Love
 
 If this setup made your desktop prettier, consider dropping a **star** — it helps others find it too!
 
 <div align="center">
 
-Thanks for stopping by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Cat" width="42" height="42" />
+Thanks for stopping by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Cat" width="32" height="32" />
 
 
 ---
