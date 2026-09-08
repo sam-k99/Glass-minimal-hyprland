@@ -187,7 +187,7 @@ If this setup made your desktop prettier, consider dropping a **star** — it he
 
 <div align="center">
 
-Thanks for stopping by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Cat" width="42" height="42" />
+Thanks for stopping by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Cat" width="42" height="42" />
 
 [![Star it](https://img.shields.io/github/stars/sam-k99/Glass-minimal-hyprland?style=social)](https://github.com/sam-k99/Glass-minimal-hyprland)
 
