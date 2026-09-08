@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Glass Hyprland" width="200"/>
+<img src="assets/logo.png" alt="" width="200"/>
 
 # GM-Hyprland
 
