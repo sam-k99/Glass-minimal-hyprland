@@ -124,10 +124,10 @@ The script installs all dependencies and copies the configs automatically.
 
 | Keys | Action |
 |---|---|
-| `Super + Enter` | Open terminal |
-| `Super + Q` | Close window |
-| `Super + D` | App launcher |
-| `Super + Shift + E` | Exit Hyprland |
+| `Super + q` | Open terminal |
+| `Super + c` | Close window |
+| `Super + space` | App launcher |
+| `Super + m` | Exit Hyprland |
 | `Super + 1-9` | Switch workspace |
 | `Super + Shift + 1-9` | Move window to workspace |
 | `Super + Arrow / Mouse` | Move / resize windows |
