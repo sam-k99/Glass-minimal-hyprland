@@ -33,7 +33,7 @@
 
 | App Launcher | System Monitor |
 |:---:|:---:|
-| ![Launcher](assets/preview3.png) | ![Btop](assets/preview3.png) |
+| ![Launcher](assets/preview3.png) | ![Btop](assets/preview2.png) |
 
 ---
 
