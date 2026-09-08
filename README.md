@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="" width="200"/>
 
-# GM-Hyprland
+# GM-Hyprland <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Cat" width="32" height="32" />
 
 [![Hyprland](https://img.shields.io/badge/WM-Hyprland-1a92ff?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/hyprwm/Hyprland)
 [![License](https://img.shields.io/github/license/sam-k99/Glass-minimal-hyprland?style=for-the-badge&color=8b5cf6)](LICENSE)
@@ -187,7 +187,7 @@ If this setup made your desktop prettier, consider dropping a **star** — it he
 
 <div align="center">
 
-Thanks for stopping by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Cat" width="32" height="32" />
+Thanks for stopping by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="32" height="32" />
 
 
 ---
