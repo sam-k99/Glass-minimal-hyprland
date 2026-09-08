@@ -29,7 +29,7 @@
 
 | Desktop | Terminal |
 |:---:|:---:|
-| ![Desktop](assets/preview1.png) | ![Terminal](assets/preview4.png) |
+| ![Desktop](assets/preview5.png) | ![Terminal](assets/preview4.png) |
 
 | App Launcher | System Monitor |
 |:---:|:---:|
