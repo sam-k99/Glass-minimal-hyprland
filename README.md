@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="Glass Hyprland" width="200"/>
 
-# 🪟 Glass — Minimal Hyprland
+# Glass — Minimal Hyprland
 
 **A clean, glassy, full Hyprland setup — minimal by design, elegant by default.**
 
