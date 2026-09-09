@@ -39,14 +39,14 @@
 
 ##  Features
 
-- ⚡ **Minimal & lightweight** — no bloat, only what matters
-- 🪟 **Glassmorphism everywhere** — blurred bars, translucent panels
-- 🎨 **Coherent color palette** across every single app
-- 🎞️ **Smooth animations & transitions** — buttery window movement
-- 🧩 **Fully modular config** — organized, commented, easy to tweak
-- 🔔 **Clean notification system**
-- 📊 **Beautiful btop skin** included
-- 🚀 **One-command install script** — Arch-based ready
+-  **Minimal & lightweight** — no bloat, only what matters
+-  **Glassmorphism everywhere** — blurred bars, translucent panels
+-  **Coherent color palette** across every single app
+-  **Smooth animations & transitions** — buttery window movement
+-  **Fully modular config** — organized, commented, easy to tweak
+-  **Clean notification system**
+-  **Beautiful btop skin** included
+-  **One-command install script** — Arch-based ready
 
 
 
@@ -54,15 +54,15 @@
 
 | Component | Tool |
 |---|---|
-| 🖥️ Window Manager | [Hyprland](https://github.com/hyprwm/Hyprland) |
-| 📊 Bar / Status | Waybar |
-| 🖼️ Wallpapers | Hyprpaper / swww |
-| 🧪 Terminal | Kitty |
-| 🔍 Launcher | Rofi / Wofi |
-| 🔔 Notifications | Dunst |
-| 📈 System Monitor | btop (custom theme) |
-| 🔒 Lock Screen | Hyprlock |
-| 🚪 Logout Menu | Wlogout |
+|  Window Manager | [Hyprland](https://github.com/hyprwm/Hyprland) |
+|  Bar / Status | Waybar |
+|  Wallpapers | Hyprpaper / swww |
+|  Terminal | Kitty |
+|  Launcher | Rofi / Wofi |
+|  Notifications | Dunst |
+|  System Monitor | btop (custom theme) |
+|  Lock Screen | Hyprlock |
+|  Logout Menu | Wlogout |
 
 
 ##  Requirements
@@ -72,7 +72,7 @@
 - A compositor-capable GPU / session
 
 <details>
-<summary>📦 <b>Full dependency list (click to expand)</b></summary>
+<summary> <b>Full dependency list (click to expand)</b></summary>
 
 ```bash
 hyprland hyprpaper hyprlock hypridle
@@ -88,7 +88,7 @@ qt5-wayland qt6-wayland
 
 ##  Installation
 
-> ⚠️ **Warning:** Back up your existing configs first!
+> Back up your existing configs first!
 
 ```bash
 mv ~/.config ~/.config.bak   # backup
@@ -101,10 +101,10 @@ cd Glass-minimal-hyprland
 cp -r ./* ~/.config/
 ```
 
-Then **log out and select Hyprland** from your session manager. Done. 🎉
+Then **log out and select Hyprland** from your session manager. Done. 
 
 <details>
-<summary>🚀 <b>Automated install (recommended)</b></summary>
+<summary> <b>Automated install (recommended)</b></summary>
 
 ```bash
 chmod +x install.sh
@@ -134,7 +134,7 @@ The script installs all dependencies and copies the configs automatically.
 | `Print` | Screenshot |
 | `Super + L` | Lock screen |
 
-> 💡 Full list lives in `~/.config/hypr/keybinds.conf` -remap freely.
+>  Full list lives in `~/.config/hypr/keybinds.conf` -remap freely.
 
 
 
@@ -142,14 +142,14 @@ The script installs all dependencies and copies the configs automatically.
 
 ```
 Glass-minimal-hyprland/
-├── assets/          # 🖼️ Screenshots & wallpapers
-├── btop/            # 📊 btop system monitor theme
-├── hypr/            # ⚙️ Hyprland core configuration
-├── waybar/          # 📊 Status bar
-├── kitty/           # 🧪 Terminal
-├── rofi/            # 🔍 App launcher
-├── dunst/           # 🔔 Notifications
-├── hyprlock/        # 🔒 Lock screen
+├── assets/          #  Screenshots & wallpapers
+├── btop/            #  btop system monitor theme
+├── hypr/            #  Hyprland core configuration
+├── waybar/          #  Status bar
+├── kitty/           #  Terminal
+├── rofi/            #  App launcher
+├── dunst/           #  Notifications
+├── hyprlock/        #  Lock screen
 ├── LICENSE
 └── README.md
 ```
@@ -175,7 +175,7 @@ Found a bug or have an idea to make **Glass** even cleaner?
 
 1. Fork the repo
 2. Create your branch (`git checkout -b feature/amazing-idea`)
-3. Commit changes (`git commit -m '✨ add amazing idea'`)
+3. Commit changes (`git commit -m ' add amazing idea'`)
 4. Push & open a Pull Request
 
 
