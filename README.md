@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="" width="200"/>
+
 
 # GM-Hyprland <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Cat" width="32" height="32" />
 
