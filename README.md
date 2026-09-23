@@ -184,8 +184,7 @@ If this setup made your desktop prettier, consider dropping a **star** it helps 
 
 <div align="center">
 
-Thanks for stopping by <img src="https://static.wikia.nocookie.net/snk/images/d/d3/Rugal-intro-98.gif/revision/latest?cb=20091013022155" alt="rugal" width="42" height="42" />
-
+Thanks for stopping by <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png" alt="cat" width="32" height="32" />
 
 
 
