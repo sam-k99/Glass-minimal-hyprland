@@ -1,6 +1,6 @@
 <div align="center">
   
-# GM-Hyprland <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Cat" width="32" height="32" />
+<img src="assets/logo.png" alt="Logo" width="450" height="450" />
 
 [![Hyprland](https://img.shields.io/badge/WM-Hyprland-1a92ff?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/hyprwm/Hyprland)
 [![License](https://img.shields.io/github/license/sam-k99/Glass-minimal-hyprland?style=for-the-badge&color=8b5cf6)](LICENSE)
