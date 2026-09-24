@@ -3,8 +3,8 @@
 <img src="assets/logo.png" alt="Logo" width="450" height="450" />
 
 [![Hyprland](https://img.shields.io/badge/WM-Hyprland-1a92ff?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/hyprwm/Hyprland)
-[![License](https://img.shields.io/github/license/sam-k99/Glass-minimal-hyprland?style=for-the-badge&color=8b5cf6)](LICENSE)
-[![Made with ❤](https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff4655?style=for-the-badge)](https://github.com/sam-k99)
+[![License](https://img.shields.io/github/license/voidd-sam/Glass-minimal-hyprland?style=for-the-badge&color=8b5cf6)](LICENSE)
+[![Made with ❤](https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff4655?style=for-the-badge)](https://github.com/voidd-sam)
 
 
 [Preview](#-preview) · [Features](#-features) · [Install](#-installation) · [Keybinds](#-keybindings) 
@@ -92,7 +92,7 @@ qt5-wayland qt6-wayland
 mv ~/.config ~/.config.bak   # backup
 
 # Clone the repo
-git clone https://github.com/sam-k99/Glass-minimal-hyprland.git
+git clone https://github.com/voidd-sam/Glass-minimal-hyprland.git
 cd Glass-minimal-hyprland
 
 # Copy configs into place
